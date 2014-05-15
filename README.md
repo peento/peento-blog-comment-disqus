@@ -18,11 +18,7 @@ app.use('blog-comment-disqus');
 配置
 ====
 
-```JavaScript
-config.disqus = {
-  name: '在Disqus网站上注册的short_name'
-};
-```
++ **comment_disqus_short_name** 在Disqus网站上注册的short_name
 
 
 授权协议
